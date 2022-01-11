@@ -1,6 +1,4 @@
-# Vector Addon
-A powerful Addon for Meteor Client
-
----
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cally72jhb)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+    <p style="float: left; padding: 0px; margin: 0px;"><img src="" height="200px" width="200px" border="1px"></p>
+    <h1>Vector Addon</h1>
+</div>
