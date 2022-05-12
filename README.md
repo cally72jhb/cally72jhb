@@ -1,7 +1,7 @@
 
 <img align="left" style="float:left" src="https://raw.githubusercontent.com/cally72jhb/cally72jhb/main/assets/icon.png" width="228px" height="228px"><h1>Vector Addon</h1>
 
-[Vector Addon](https://cally72jhb.github.io/website/) is a powerfull Addon for [Meteor Client](https://github.com/MeteorDevelopment/meteor-client)
+[Vector Addon](https://cally72jhb.github.io/website/) is a powerfull Addon for Meteor Client
 
 [![Discord embed](https://img.shields.io/discord/863813920892518461.svg?style=flat-square&label=Discord&colorA=606060&colorB=7289DA)](https://discord.gg/A3nYgbKeXR)<br>
 [![Latest Release embed](https://badgen.net/github/release/cally72jhb/vector-addon?style=flat-square&label=Latest+Release&color=158FCC)](https://github.com/cally72jhb/vector-addon/releases)<br>
