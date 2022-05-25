@@ -1,5 +1,5 @@
 
-<img align="left" style="float:left" src="https://raw.githubusercontent.com/cally72jhb/cally72jhb/main/assets/icon.png" width="210px" height="210px"><h1>Vector Addon</h1>
+<img align="left" style="float:left" src="https://raw.githubusercontent.com/cally72jhb/cally72jhb/main/assets/icon.png" width="228px" height="228px"><h1>Vector Addon</h1>
 
 Vector Addon is a powerfull Addon for Meteor Client
 
